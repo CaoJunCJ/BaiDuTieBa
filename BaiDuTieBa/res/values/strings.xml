@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BaiDuTieBa</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="tieba_name">请输入贴吧名字</string>
+    <string name="title_activity_tie_ba">TieBa</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_test">Test</string>
+    <string name="title_activity_repot">Repot</string>
+	<string name="title_SelectTieBa">Input TieBa Name</string>
+	<string name="title_BowserTieBa">TieBa</string>
+
+</resources>
